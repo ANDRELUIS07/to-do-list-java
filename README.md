@@ -17,8 +17,8 @@ Projeto acadêmico desenvolvido como exercício de arquitetura de software (padr
 ## Tecnologias
 
 - **Linguagem:** Java
-- **Interface gráfica:** Swing
-- **Persistência:** SQLite via JDBC
+- **Interface gráfica:** JavaFX
+- **Persistência:** MySQL via JDBC
 - **Arquitetura:** MVC (Model-View-Controller)
 
 ## Estrutura do projeto
