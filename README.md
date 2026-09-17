@@ -2,7 +2,7 @@
 
 Aplicação de lista de tarefas (To Do List) com interface gráfica em Java, com persistência local de dados.
 
-Projeto acadêmico desenvolvido como exercício de arquitetura de software (padrão MVC), manipulação de interface gráfica e persistência de dados. Este repositório contém a implementação em **Java**; uma versão equivalente em **C++** é desenvolvida separadamente, seguindo a mesma especificação de requisitos.
+Projeto acadêmico desenvolvido como exercício de arquitetura de software (padrão MVC), manipulação de interface gráfica e persistência de dados.
 
 ## Funcionalidades
 
