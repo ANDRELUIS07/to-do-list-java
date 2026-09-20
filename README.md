@@ -28,7 +28,7 @@ src/
   main/
     java/
       br/com/todolist/
-        model/       # Classes de domínio (ex.: Tarefa)
+        model/       # Classes de domínio (ex.: include.Task)
         view/        # Telas e componentes da interface gráfica
         controller/   # Lógica de negócio e orquestração
         dao/         # Camada de acesso e persistência de dados
